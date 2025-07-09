@@ -6,3 +6,5 @@ Analyzed six months of transactional sales data for a simulated e-commerce busin
     <li>Exploratory analysis</li>
     <li>Actionable insights</li>
 </ol>
+<br>
+<img src="sample.png">
